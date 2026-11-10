@@ -1,4 +1,4 @@
-##### This project won't get update until an unspecified time.
+##### This fork of Iolive will move to purism core.
 <hr>
 
 # Iolive
