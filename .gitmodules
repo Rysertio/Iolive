@@ -1,3 +1,6 @@
 [submodule "Iolive/Vendor/glfw"]
 	path = Iolive/Vendor/glfw
 	url = https://github.com/glfw/glfw
+[submodule "Iolive/Vendor/PurismCore"]
+	path = Iolive/Vendor/PurismCore
+	url = https://github.com/SakuraMotion/PurismCore
